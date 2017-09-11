@@ -63,7 +63,7 @@ public class Library {
     /** The licenceName. */
     private String licenceName;
 
-    /** The version. */
+    /** The info. */
     private String info;
 
     /**
